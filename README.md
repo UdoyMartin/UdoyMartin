@@ -62,7 +62,7 @@ When I'm not building web applications, you can usually find me solving a 3x3 Ru
 ### 🔗 Connect
 
 <div align="center">
-  <a href="><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href=""><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href=""><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href=""><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href=""><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
@@ -79,7 +79,7 @@ When I'm not building web applications, you can usually find me solving a 3x3 Ru
 ### 🔗 Contribution
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayankrajput00&theme=tokyo-night" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UdoyMartin&theme=tokyo-night" alt="Contribution Graph" width="100%" />
 </div>
 
 
